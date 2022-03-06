@@ -1,0 +1,10 @@
+[package]
+name = "nalgebra-plane"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nalgebra = "0.30.1"             # General-purpose linear algebra library with transformations and statically-sized or dynamically…
+random-number = "0.1.6"
